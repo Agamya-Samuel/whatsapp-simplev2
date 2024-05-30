@@ -1,0 +1,8 @@
+node_modules
+
+.wwebjs_auth
+.wwebjs_cache
+
+test.*
+test-list.json
+global-vars.js
